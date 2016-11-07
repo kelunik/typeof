@@ -1,0 +1,17 @@
+{
+    "name": "kelunik/typeof",
+    "description": "Types of PHP variables.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Niklas Keller",
+            "email": "me@kelunik.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ]
+    }
+}
